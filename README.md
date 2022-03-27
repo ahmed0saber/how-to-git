@@ -17,3 +17,6 @@
 
 6) To commit files from staging area to local repository
 <code> git commit -m "Added some files." </code>
+
+7) To view available branches
+<code> git branch </code>
