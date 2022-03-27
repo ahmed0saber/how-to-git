@@ -1,4 +1,5 @@
 ### How to git
+https://www.youtube.com/watch?v=VP3c8ExvOP0&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=6
 
 1) To clone a repository
 <code> git clone https://github.com/ahmed0saber/how-to-git.git </code>
