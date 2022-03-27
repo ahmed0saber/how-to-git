@@ -23,3 +23,8 @@
 
 8) To view available remote branches
 <code> git remote -v </code>
+
+9) To push updated from local(main) to remote(origin)
+<code> git push origin main </code>
+
+10) If you have a problem logging in your GitHub account, visit https://exerror.com/remote-support-for-password-authentication-was-removed-on-august-13-2021-please-use-a-personal-access-token-instead/
